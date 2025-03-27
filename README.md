@@ -30,7 +30,7 @@ This project queries the **New York Times Article Search API** to collect, clean
 
 ## 📁 Files
 
-- `CCT416_FINAL_Notebook_3.ipynb` – Main Jupyter Notebook
+- `Sentiment Analysis on Automation & Technology Articles.ipynb` – Main Jupyter Notebook
 - `nyt_articles.json2` – Raw NYT articles dataset (fetched from API)
 - `preprocessed_nyt_articles.json` – Cleaned and preprocessed articles
 - `README.md` – You’re reading it!
